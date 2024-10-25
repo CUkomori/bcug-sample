@@ -1,5 +1,5 @@
 <?php
-namespace Sample;
+namespace NewsTheme;
 
 use BaserCore\BcPlugin;
 
